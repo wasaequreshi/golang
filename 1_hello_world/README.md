@@ -26,9 +26,3 @@ To install go script, run:
 go install hello.go
 ```
 This will allow you to run `hello` from any directory.
-
-## Reference
-
-1. https://medium.com/rungo/how-to-write-a-simple-go-program-13fd104f3018
-
-2. https://tour.golang.org/welcome/1
