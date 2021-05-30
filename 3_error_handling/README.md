@@ -1,4 +1,4 @@
-# Learning Go Part 2
+# Learning Go Part 3
 
 ## Creating Error Handling
 
