@@ -1,4 +1,4 @@
-# Learning Go
+# Learning Go Part 1
 
 ## Run Go Program
 To run go script, execute the following on the CLI:
